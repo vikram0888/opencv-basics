@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "opencv-basics"
-AUTHOR_USER_NAME = "vikramjha0888"
+AUTHOR_USER_NAME = "vikram0888"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
